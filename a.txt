@@ -1,0 +1,64 @@
+my name supee
+git test command line
+
+//////////////////////////////////
+1.git config
+
+git config --global user.name "namexxx"
+git config --global user.email "mailxxx@gmail.com"
+
+2.make project(in project floder)
+
+git init
+
+3.check status file
+
+git status
+--- or ---
+git log
+
+4.assign URL repository on github
+
+git remote add origin git@github.com:koeSupee/namexxx.git
+
+5.Add file
+
+git add name.xx (single file)
+-- or --
+git add .(all file)
+
+6.git commit
+
+git commit -m "comment here"
+
+7.(reset file or cancle file)
+
+git reset name.xx (single file)
+-- or --
+git reset --hard (all file)
+-- or --
+git checkout name.xx
+
+**********************************
+
+8.up file to github
+
+git push origin master
+
+9.check balance file between local and server
+
+git fetch
+
+10.merge file local and server
+
+git merge
+
+11.clone file from reposity(file new only)
+
+git pull origin master
+
+12.clone all file from reposity
+
+git clone git://github.com/uname/projectxxx.git
+
+9.
