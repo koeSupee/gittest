@@ -1,0 +1,12 @@
+cls = clear the screen
+comp = compare files
+convert = convert FAT to NTFS.(cannot convert the current drive)
+copy = copy one or more file to another location
+date = display date or set date
+del (file name) = delete one or more file
+dir = display a list file
+driverquery = show current device driver status and properties.
+exit = quit the cmd.exe program
+md (file name) = create folder
+mkdir (file name) = create folder
+rmdir /s/q (folder name) = delete folder
